@@ -1,0 +1,95 @@
+{
+    "john-debit": {
+        "username": "john",
+        "password": "doe",
+        "UIN": "UIN-xxxxx",
+        "creditScore": 650,
+        "banks": [
+            {
+                "bankName": "Halifax",
+                "bankId": "HHaalliiffaaxx",
+                "accounts": [
+                    {
+                        "accountType": "SB",
+                        "accountNumber": "XXXXXX XXXX6789",
+                        "accountTitle": "Every Day Saver",
+                        "standingInst": "100",
+                        "balance": "2,100",
+                        "minBalance": 100,
+                        "interestRate": 0.20 ,
+                        "availableBalance":"1,900",
+                        "standingInstructions": [
+                            {
+                                "name": "Health Insurance",
+                                "value": "450",
+                                "schdDate": "22-12-2018"
+                            },
+                            {
+                                "name": "Term Premium",
+                                "value": "750",
+                                "schdDate": "21-12-2018"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "bankName": "HSBC",
+                "bankId": "HHSSBBCC",
+                "accounts": [
+                    {
+                        "aaccountType": "PCA",
+                        "accountNumber": "XXXXXX XXXX2345",
+                        "accountTitle": "HSBC Advance Bank Account",
+                        "standingInst": "1,100",
+                        "balance": "4,000",
+                        "minBalance": 200,
+                        "interestRate": 0.10,
+                        "availableBalance":"2,700",
+                        "standingInstructions": [
+                            {
+                                "name": "SIP",
+                                "value": "400",
+                                "schdDate": "25-12-2018"
+                            },
+                            {
+                                "name": "Electricity bill",
+                                "value": "350",
+                                "schdDate": "22-12-2018"
+                            },
+                            {
+                                "name": "Utility bills",
+                                "value": "800",
+                                "schdDate": "25-12-2018"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "bankName": "Barclays",
+                "bankId": "BBaarrccllaayyss",
+                "accounts": [
+                    {
+                        "accountType": "SB",
+                        "accountNumber": "XXXXXX XXXX3456",
+                        "accountTitle": "Easy Saver",
+                        "standingInst": "1,100",
+                        "balance": "1,500",
+                        "minBalance": 200,
+                        "interestRate": 0.25,
+                        "availableBalance":"200",
+                        "standingInstructions": [
+                            {
+                                "name": "Account transfer to friend",
+                                "value": "2000",
+                                "schdDate": "23-12-2018"
+                            }
+                        ]
+                    }
+                ]
+            }
+
+        ]
+    }
+}

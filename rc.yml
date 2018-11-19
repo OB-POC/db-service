@@ -1,0 +1,18 @@
+apiVersion: v1
+kind: ReplicationController
+metadata:
+  name: mockdbservice-rc
+spec:
+  replicas: 5
+  selector:
+    app: mockdbservice
+  template:
+    metadata:
+      labels:
+        app: mockdbservice
+    spec:
+      containers:
+        - name: hello-ctr
+          image: optimateam/lbgpoc_mockdbservice:latest
+          ports:
+            - containerPort: 3001
