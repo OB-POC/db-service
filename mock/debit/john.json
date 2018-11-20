@@ -13,20 +13,20 @@
                         "accountType": "SB",
                         "accountNumber": "XXXXXX XXXX6789",
                         "accountTitle": "Every Day Saver",
-                        "standingInst": "100",
-                        "balance": "2,100",
+                        "standingInst": 900,
+                        "balance": 2100,
                         "minBalance": 100,
                         "interestRate": 0.20 ,
-                        "availableBalance":"1,900",
+                        "availableBalance":1100,
                         "standingInstructions": [
                             {
                                 "name": "Health Insurance",
-                                "value": "450",
+                                "value": 450,
                                 "schdDate": "22-12-2018"
                             },
                             {
                                 "name": "Term Premium",
-                                "value": "750",
+                                "value": 450,
                                 "schdDate": "21-12-2018"
                             }
                         ]
@@ -41,25 +41,25 @@
                         "aaccountType": "PCA",
                         "accountNumber": "XXXXXX XXXX2345",
                         "accountTitle": "HSBC Advance Bank Account",
-                        "standingInst": "1,100",
-                        "balance": "4,000",
+                        "standingInst": 1550,
+                        "balance": 1000,
                         "minBalance": 200,
                         "interestRate": 0.10,
-                        "availableBalance":"2,700",
+                        "availableBalance": -750,
                         "standingInstructions": [
                             {
                                 "name": "SIP",
-                                "value": "400",
+                                "value": 400,
                                 "schdDate": "25-12-2018"
                             },
                             {
                                 "name": "Electricity bill",
-                                "value": "350",
+                                "value": 350,
                                 "schdDate": "22-12-2018"
                             },
                             {
                                 "name": "Utility bills",
-                                "value": "800",
+                                "value": 800,
                                 "schdDate": "25-12-2018"
                             }
                         ]
@@ -74,15 +74,15 @@
                         "accountType": "SB",
                         "accountNumber": "XXXXXX XXXX3456",
                         "accountTitle": "Easy Saver",
-                        "standingInst": "1,100",
-                        "balance": "1,500",
+                        "standingInst": 1100,
+                        "balance": 3500,
                         "minBalance": 200,
                         "interestRate": 0.25,
-                        "availableBalance":"200",
+                        "availableBalance":2000,
                         "standingInstructions": [
                             {
                                 "name": "Account transfer to friend",
-                                "value": "2000",
+                                "value": 1100,
                                 "schdDate": "23-12-2018"
                             }
                         ]

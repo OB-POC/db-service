@@ -44,7 +44,7 @@ const mockServer = () => {
           }
         });
       
-        server.use(jsonServer.router(base));
+        server.use('/dbService', jsonServer.router(base));
         server.listen(5000, () => {
           console.log('Mock JSON Server is running')
         })

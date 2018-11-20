@@ -13,25 +13,25 @@
                         "accountType": "SB",
                         "accountNumber": "XXXXXX XXXX6789",
                         "accountTitle": "Every Day Saver",
-                        "standingInst": "2,000",
-                        "balance": "4,000",
-                        "minBalance": "1,000",
-                        "interestRate": 0.2 ,
-                        "availableBalance":"1,000",
+                        "standingInst": 2000,
+                        "balance": 2500,
+                        "minBalance": 1000,
+                        "interestRate": 0.2,
+                        "availableBalance": -500,
                         "standingInstructions": [
                             {
                                 "name": "Electricity bill",
-                                "value": "200",
+                                "value": 200,
                                 "schdDate": "23-12-2018"
                             },
                             {
                                 "name": "Utility bills",
-                                "value": "1000",
+                                "value": 1000,
                                 "schdDate": "19-12-2018"
                             },
                             {
                                 "name": "Account transfer to friend",
-                                "value": "500",
+                                "value": 800,
                                 "schdDate": "10-12-2018"
                             }
                         ]
@@ -46,20 +46,20 @@
                         "accountType": "PCA",
                         "accountNumber": "XXXXXX XXXX6123",
                         "accountTitle": "HSBC Advance Bank Account",
-                        "standingInst": "1,200",
-                        "balance": "4,000",
+                        "standingInst": 1200,
+                        "balance": 4000,
                         "minBalance": 200,
                         "interestRate": 0.1,
-                        "availableBalance":"2,600",
+                        "availableBalance":2600,
                         "standingInstructions": [
                             {
                                 "name": "SIP",
-                                "value": "400",
+                                "value": 900,
                                 "schdDate": "23-12-2018"
                             },
                             {
                                 "name": "Term Insurance",
-                                "value": "300",
+                                "value": 300,
                                 "schdDate": "25-12-2018"
                             }
                         ]
@@ -75,19 +75,19 @@
                         "accountNumber": "XXXXXX XXXX3222",
                         "accountTitle": "Easy Saver",
                         "standingInst": 800,
-                        "balance": "6,000",
+                        "balance": 6000,
                         "minBalance": 200,
                         "interestRate": 0.25,
-                        "availableBalance":"5,000",
+                        "availableBalance":5000,
                         "standingInstructions": [
                             {
                                 "name": "Health Insurance",
-                                "value": "800",
+                                "value": 200,
                                 "schdDate": "25-12-2018"
                             },
                             {
                                 "name": "Term Premium",
-                                "value": "700",
+                                "value": 600,
                                 "schdDate": "20-12-2018"
                             }
                         ]
