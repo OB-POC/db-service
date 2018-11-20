@@ -1,0 +1,182 @@
+{
+    "best-match": [
+        {
+            "username": "alice",
+            "password": "wonderland",
+            "UIN": "UIN-xxxx",
+            "bankleftOut": "Barclays",
+            "typeLeftOut": "debit",
+            "totalAvailableBalance": 4800,
+            "aerLeftOut": 0.25,
+            "creditDebitMatch": [
+                {
+                    "bankName": "Barclays",
+                    "accountType": "M",
+                    "accountTitle": "2 Years Fixed Reward",
+                    "totalBalanceDue": 800,
+                    "clearedTotalDue": true,
+                    "interestRate": 3.3,
+                    "totalOutstandingBalance": 0,
+                    "senders": [
+                        {
+                            "bankName": "HSBC",
+                            "accountType": "PCA",
+                            "accountTitle": "HSBC Advance bank Account",
+                            "contributingAmount": 800,
+                            "totalAvailableBalance": 2600,
+                            "beforeContributingBalance": 2600,
+                            "afterContributingBalance": 1800,
+                            "interestRate": 0.1
+                        }
+                    ]
+                },
+                {
+                    "bankName": "NatWest",
+                    "accountType": "CC",
+                    "accountTitle": "Reward Black Credit Card",
+                    "totalBalanceDue": 1800,
+                    "clearedTotalDue": true,
+                    "apr": 37.10,
+                    "totalOutstandingBalance": 0,
+                    "senders": [
+                        {
+                            "bankName": "HSBC",
+                            "accountType": "PCA",
+                            "accountTitle": "HSBC Advance bank Account",
+                            "contributingAmount": 1800,
+                            "totalAvailableBalance": 2600,
+                            "beforeContributingBalance": 1800,
+                            "afterContributingBalance": 0,
+                            "interestRate": 0.1
+                        }
+                    ]
+                },
+                {
+                    "bankName": "RBS",
+                    "accountType": "CC",
+                    "accountTitle": "Unlimited Credit Card",
+                    "totalBalanceDue": 1200,
+                    "clearedTotalDue": true,
+                    "apr": 19.94,
+                    "totalOutstandingBalance": 0,
+                    "senders": [
+                        {
+                            "bankName": "Halifax",
+                            "accountType": "SB",
+                            "accountTitle": "Every Day Saver",
+                            "contributingAmount": 1000,
+                            "totalAvailableBalance": 1000,
+                            "beforeContributingBalance": 1000,
+                            "afterContributingBalance": 0,
+                            "interestRate": 0.2 
+                        },
+                        {
+                            "bankName": "Barclays",
+                            "accountType": "SB",
+                            "accountTitle": "Easy Saver",
+                            "contributingAmount": 200,
+                            "totalAvailableBalance": 5000,
+                            "beforeContributingBalance": 5000,
+                            "afterContributingBalance": 4800,
+                            "interestRate": 0.25
+                        }
+                    ] 
+                }
+            ] 
+        },
+        {
+            "username": "john",
+            "password": "doe",
+            "UIN": "UIN-xxxxx",
+            "typeLeftOut": "credit",
+            "bankLeftOut": "NatWest",
+            "totalAvailableBalance": -900,
+            "aprLeftOut": 23.70,
+            "creditDebitMatch": [
+                {
+                    "bankName": "Barclays",
+                    "accountType": "M",
+                    "accountTitle": "2 Years Fixed Reward",
+                    "totalBalanceDue": 800,
+                    "clearedTotalDue": true,
+                    "interestRate": 3.3,
+                    "totalOutstandingBalance": 0,
+                    "senders": [
+                        {
+                            "bankName": "HSBC",
+                            "accountType": "PCA",
+                            "accountTitle": "HSBC Advance bank Account",
+                            "contributingAmount": 800,
+                            "totalAvailableBalance": 2700,
+                            "beforeContributingBalance": 2700,
+                            "afterContributingBalance": 1900,
+                            "interestRate": 0.1
+                        }
+                    ]
+                },
+                {
+                    "bankName": "RBS",
+                    "accountType": "CC",
+                    "accountTitle": "Reward Black Credit Card",
+                    "totalBalanceDue": 2000,
+                    "clearedTotalDue": true,
+                    "apr": 27.10,
+                    "totalOutstandingBalance": 0,
+                    "senders": [
+                        {
+                            "bankName": "HSBC",
+                            "accountType": "PCA",
+                            "accountTitle": "HSBC Advance bank Account",
+                            "contributingAmount": 1900,
+                            "totalAvailableBalance": 2700,
+                            "beforeContributingBalance": 1900,
+                            "afterContributingBalance": 0,
+                            "interestRate": 0.1
+                        },
+                        {
+                            "bankName": "Halifax",
+                            "accountType": "SB",
+                            "accountTitle": "Every Day Saver",
+                            "contributingAmount": 100,
+                            "totalAvailableBalance": 1900,
+                            "beforeContributingBalance": 1900,
+                            "afterContributingBalance": 1800,
+                            "interestRate": 0.2 
+                        }
+                    ]
+                },
+                {
+                    "bankName": "NatWest",
+                    "accountType": "CC",
+                    "accountTitle": "Reward Credit Card",
+                    "totalBalanceDue": 2900,
+                    "clearedTotalDue": false,
+                    "apr": 23.7,
+                    "totalOutstandingBalance": 900,
+                    "senders": [
+                        {
+                            "bankName": "Halifax",
+                            "accountType": "SB",
+                            "accountTitle": "Every Day Saver",
+                            "contributingAmount": 1800,
+                            "totalAvailableBalance": 1900,
+                            "beforeContributingBalance": 1800,
+                            "afterContributingBalance": 0,
+                            "interestRate": 0.2
+                        },
+                        {
+                            "bankName": "Barclays",
+                            "accountType": "SB",
+                            "accountTitle": "Easy Saver",
+                            "contributingAmount": 200,
+                            "totalAvailableBalance": 200,
+                            "beforeContributingBalance": 200,
+                            "afterContributingBalance": 0,
+                            "interestRate": 0.25 
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
