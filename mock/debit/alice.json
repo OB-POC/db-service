@@ -22,17 +22,17 @@
                             {
                                 "name": "Electricity bill",
                                 "value": 200,
-                                "schdDate": "23-12-2018"
+                                "schdDate": "12-23-2018"
                             },
                             {
                                 "name": "Utility bills",
                                 "value": 1000,
-                                "schdDate": "19-12-2018"
+                                "schdDate": "12-19-2018"
                             },
                             {
                                 "name": "Account transfer to friend",
                                 "value": 800,
-                                "schdDate": "10-12-2018"
+                                "schdDate": "12-10-2018"
                             }
                         ]
                     }
@@ -55,12 +55,12 @@
                             {
                                 "name": "SIP",
                                 "value": 900,
-                                "schdDate": "23-12-2018"
+                                "schdDate": "12-23-2018"
                             },
                             {
                                 "name": "Term Insurance",
                                 "value": 300,
-                                "schdDate": "25-12-2018"
+                                "schdDate": "12-25-2018"
                             }
                         ]
                     }
@@ -83,12 +83,12 @@
                             {
                                 "name": "Health Insurance",
                                 "value": 200,
-                                "schdDate": "25-12-2018"
+                                "schdDate": "12-25-2018"
                             },
                             {
                                 "name": "Term Premium",
                                 "value": 600,
-                                "schdDate": "20-12-2018"
+                                "schdDate": "12-20-2018"
                             }
                         ]
                     }

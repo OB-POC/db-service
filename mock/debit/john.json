@@ -22,12 +22,12 @@
                             {
                                 "name": "Health Insurance",
                                 "value": 450,
-                                "schdDate": "22-12-2018"
+                                "schdDate": "12-22-2018"
                             },
                             {
                                 "name": "Term Premium",
                                 "value": 450,
-                                "schdDate": "21-12-2018"
+                                "schdDate": "12-21-2018"
                             }
                         ]
                     }
@@ -50,17 +50,17 @@
                             {
                                 "name": "SIP",
                                 "value": 400,
-                                "schdDate": "25-12-2018"
+                                "schdDate": "12-25-2018"
                             },
                             {
                                 "name": "Electricity bill",
                                 "value": 350,
-                                "schdDate": "22-12-2018"
+                                "schdDate": "12-22-2018"
                             },
                             {
                                 "name": "Utility bills",
                                 "value": 800,
-                                "schdDate": "25-12-2018"
+                                "schdDate": "12-25-2018"
                             }
                         ]
                     }
@@ -83,7 +83,7 @@
                             {
                                 "name": "Account transfer to friend",
                                 "value": 1100,
-                                "schdDate": "23-12-2018"
+                                "schdDate": "12-23-2018"
                             }
                         ]
                     }
