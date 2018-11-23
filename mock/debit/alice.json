@@ -18,21 +18,25 @@
                         "minBalance": 1000,
                         "interestRate": 0.2,
                         "availableBalance": -500,
+                        "automatedSITransations": true,
                         "standingInstructions": [
                             {
                                 "name": "Electricity bill",
                                 "value": 200,
-                                "schdDate": "12-23-2018"
+                                "schdDate": "12-23-2018",
+                                "canClear": true
                             },
                             {
                                 "name": "Utility bills",
                                 "value": 1000,
-                                "schdDate": "12-19-2018"
+                                "schdDate": "12-19-2018",
+                                "canClear": true
                             },
                             {
                                 "name": "Account transfer to friend",
                                 "value": 800,
-                                "schdDate": "12-10-2018"
+                                "schdDate": "12-10-2018",
+                                "canClear": false
                             }
                         ]
                     }
@@ -51,16 +55,19 @@
                         "minBalance": 200,
                         "interestRate": 0.1,
                         "availableBalance":2600,
+                        "automatedSITransations": false,
                         "standingInstructions": [
                             {
                                 "name": "SIP",
                                 "value": 900,
-                                "schdDate": "12-23-2018"
+                                "schdDate": "12-23-2018",
+                                "canClear": true
                             },
                             {
                                 "name": "Term Insurance",
                                 "value": 300,
-                                "schdDate": "12-25-2018"
+                                "schdDate": "12-25-2018",
+                                "canClear": true
                             }
                         ]
                     }
@@ -79,16 +86,19 @@
                         "minBalance": 200,
                         "interestRate": 0.25,
                         "availableBalance":5000,
+                        "automatedSITransations": true,
                         "standingInstructions": [
                             {
                                 "name": "Health Insurance",
                                 "value": 200,
-                                "schdDate": "12-25-2018"
+                                "schdDate": "12-25-2018",
+                                "canClear": true
                             },
                             {
                                 "name": "Term Premium",
                                 "value": 600,
-                                "schdDate": "12-20-2018"
+                                "schdDate": "12-20-2018",
+                                "canClear": true
                             }
                         ]
                     }
