@@ -18,16 +18,19 @@
                         "minBalance": 100,
                         "interestRate": 0.20 ,
                         "availableBalance":1100,
+                        "automatedSITransations": true,
                         "standingInstructions": [
                             {
                                 "name": "Health Insurance",
                                 "value": 450,
-                                "schdDate": "22-12-2018"
+                                "schdDate": "12-22-2018",
+                                "canClear": true
                             },
                             {
                                 "name": "Term Premium",
                                 "value": 450,
-                                "schdDate": "21-12-2018"
+                                "schdDate": "12-21-2018",
+                                "canClear": true
                             }
                         ]
                     }
@@ -45,22 +48,26 @@
                         "balance": 1000,
                         "minBalance": 200,
                         "interestRate": 0.10,
-                        "availableBalance": -750,
+                        "availableBalance": 0,
+                        "automatedSITransations": true,
                         "standingInstructions": [
                             {
                                 "name": "SIP",
                                 "value": 400,
-                                "schdDate": "25-12-2018"
+                                "schdDate": "12-25-2018",
+                                "canClear": true
                             },
                             {
                                 "name": "Electricity bill",
                                 "value": 350,
-                                "schdDate": "22-12-2018"
+                                "schdDate": "12-22-2018",
+                                "canClear": true
                             },
                             {
                                 "name": "Utility bills",
                                 "value": 800,
-                                "schdDate": "25-12-2018"
+                                "schdDate": "12-25-2018",
+                                "canClear": false
                             }
                         ]
                     }
@@ -83,7 +90,8 @@
                             {
                                 "name": "Account transfer to friend",
                                 "value": 1100,
-                                "schdDate": "23-12-2018"
+                                "schdDate": "12-23-2018",
+                                "canClear": true
                             }
                         ]
                     }
