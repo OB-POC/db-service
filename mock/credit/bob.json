@@ -1,5 +1,6 @@
 {
-    "bob-credit": {
+    "bob-credit":
+    {
         "username": "alice",
         "password": "wonderland",
         "UIN": "UIN-xxxx",
@@ -14,11 +15,11 @@
                         "accountNumber": "XXXXXX XXXXXX6789",
                         "accountTitle": "Reward Black Credit Card",
                         "creditLimit": 3000,
-                        "availableCredit": 1200,
-                        "totalBalanceDue": 1800,
-                        "minBalanceDue": 30,
-                        "apr": 37.10,
-                        "dueDate": "new Date().setDate(new Date().getDate()+5)"
+                        "availableCredit": 2000,
+                        "totalBalanceDue": 1000,
+                        "minBalanceDue": 300,
+                        "apr": 37.1,
+                        "dueDate": 1541530863807
                     }
                 ]
             },
@@ -28,14 +29,31 @@
                 "accounts": [
                     {
                         "accountType": "CC",
-                        "accountNumber": "XXXXXX XXXXXX7890",
+                        "accountNumber": "XXXXXX XXXXXX7891",
                         "accountTitle": "RBS Unlimited Credit Card",
                         "creditLimit": 4000,
-                        "availableCredit": 2800,
-                        "totalBalanceDue": 1200,
+                        "availableCredit": 3500,
+                        "totalBalanceDue": 500,
                         "minBalanceDue": 100,
                         "apr": 19.94,
-                        "dueDate": "new Date().setDate(new Date().getDate()+5)"
+                        "dueDate": 1541530863807
+                    }
+                ]
+            },
+            {
+                "bankName": "Mongo",
+                "bankId": "RRBBSS",
+                "accounts": [
+                    {
+                        "accountType": "CC",
+                        "accountNumber": "XXXXXX XXXXXX78768",
+                        "accountTitle": "RBS Unlimited Credit Card",
+                        "creditLimit": 4000,
+                        "availableCredit": 3600,
+                        "totalBalanceDue": 400,
+                        "minBalanceDue": 100,
+                        "apr": 18.94,
+                        "dueDate": 1541530863807
                     }
                 ]
             },
@@ -47,11 +65,11 @@
                         "accountType": "M",
                         "accountNumber": "XXXXXX XXXXXX7890",
                         "accountTitle": "2 Years Fixed Reward",
-                        "minMonthlyPayment": 800,
+                        "minMonthlyPayment": 200,
                         "remainingFullTerm": "5Y 3M",
-                        "totalBalanceDue": 50000,
+                        "totalBalanceDue": 200,
                         "interestRate": 3.3,
-                        "dueDate": "new Date().setDate(new Date().getDate()+5)"
+                        "dueDate": 1541530863808
                     }
                 ]
             }

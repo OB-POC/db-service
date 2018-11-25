@@ -1,7 +1,7 @@
 {
     "emma-debit": {
-        "username": "alice",
-        "password": "wonderland",
+        "username": "emma",
+        "password": "emma",
         "UIN": "XXXX-xxxx",
         "creditScore": 700,
         "banks": [
