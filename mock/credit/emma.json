@@ -49,7 +49,7 @@
                         "accountTitle": "2 Years Fixed Reward",
                         "minMonthlyPayment": 800,
                         "remainingFullTerm": "5Y 3M",
-                        "totalBalanceDue": 50000,
+                        "totalBalanceDue": 800,
                         "interestRate": 3.3,
                         "dueDate": "new Date().setDate(new Date().getDate()+5)"
                     }

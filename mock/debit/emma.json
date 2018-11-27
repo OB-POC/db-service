@@ -13,11 +13,11 @@
                         "accountType": "SB",
                         "accountNumber": "XXXXXX XXXX6789",
                         "accountTitle": "Every Day Saver",
-                        "standingInst": 2000,
+                        "standingInst": 1700,
                         "balance": 2500,
-                        "minBalance": 1000,
+                        "minBalance": 300,
                         "interestRate": 0.2,
-                        "availableBalance": -500,
+                        "availableBalance": 500,
                         "standingInstructions": [
                             {
                                 "name": "Electricity bill",
