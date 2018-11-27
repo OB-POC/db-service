@@ -1,8 +1,8 @@
 {
     "bob-credit":
     {
-        "username": "alice",
-        "password": "wonderland",
+        "username": "bob",
+        "password": "bob",
         "UIN": "UIN-xxxx",
         "creditScore": 700,
         "banks": [
