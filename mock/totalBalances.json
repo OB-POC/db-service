@@ -15,6 +15,22 @@
             "totalAvailableDebitBalance": 4800,
             "totalAvailableCreditBalance": 5700,
             "savingsOnBestMatch": 367.2
+        },
+        {
+            "username": "bob",
+            "noOfDebitAccounts": 2,
+            "noOfCreditAccounts": 4,
+            "totalAvailableDebitBalance": 2500,
+            "totalAvailableCreditBalance": 2100,
+            "savingsOnBestMatch": 0
+        },
+        {
+            "username": "emma",
+            "noOfDebitAccounts": 3,
+            "noOfCreditAccounts": 3,
+            "totalAvailableDebitBalance": 4800,
+            "totalAvailableCreditBalance": 3800,
+            "savingsOnBestMatch": 0
         }
     ]
 }

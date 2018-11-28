@@ -4,7 +4,7 @@
   "description": "A mock database to serve the application",
   "main": "db.service.js",
   "scripts": {
-    "start": "node db.service.js",
+    "start": "nodemon db.service.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Optima Team",
@@ -12,6 +12,7 @@
   "dependencies": {
     "json-server": "^0.14.0",
     "log4js": "^3.0.6",
+    "nodemon": "^1.18.7",
     "underscore": "^1.9.1"
   }
 }
