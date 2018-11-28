@@ -1,8 +1,8 @@
 {
     "becca-credit":
     {
-        "username": "bob",
-        "password": "bob",
+        "username": "becca",
+        "password": "becca",
         "UIN": "UIN-xxxx",
         "creditScore": 700,
         "banks": [

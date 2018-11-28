@@ -1,7 +1,7 @@
 {
     "paul-debit": {
-        "username": "emma",
-        "password": "emma",
+        "username": "paul",
+        "password": "paul",
         "UIN": "XXXX-xxxx",
         "creditScore": 700,
         "banks": [
@@ -50,7 +50,7 @@
                         "balance": 2400,
                         "minBalance": 200,
                         "interestRate": 0.1,
-                        "availableBalance":300,
+                        "availableBalance":1000,
                         "standingInstructions": [
                             {
                                 "name": "SIP",
