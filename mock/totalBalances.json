@@ -28,8 +28,8 @@
             "username": "emma",
             "noOfDebitAccounts": 3,
             "noOfCreditAccounts": 3,
-            "totalAvailableDebitBalance": 8100,
-            "totalAvailableCreditBalance": 3800,
+            "totalAvailableDebitBalance": 5000,
+            "totalAvailableCreditBalance": 4000,
             "savingsOnBestMatch": 0
         }
     ]

@@ -1,5 +1,5 @@
 {
-    "emma-debit": {
+    "paul-debit": {
         "username": "emma",
         "password": "emma",
         "UIN": "XXXX-xxxx",
@@ -14,10 +14,10 @@
                         "accountNumber": "XXXXXX XXXX6789",
                         "accountTitle": "Every Day Saver",
                         "standingInst": 1700,
-                        "balance": 6000,
+                        "balance": 3000,
                         "minBalance": 300,
                         "interestRate": 0.2,
-                        "availableBalance": 4000,
+                        "availableBalance": 1000,
                         "standingInstructions": [
                             {
                                 "name": "Electricity bill",
@@ -50,7 +50,7 @@
                         "balance": 2400,
                         "minBalance": 200,
                         "interestRate": 0.1,
-                        "availableBalance":1000,
+                        "availableBalance":300,
                         "standingInstructions": [
                             {
                                 "name": "SIP",
