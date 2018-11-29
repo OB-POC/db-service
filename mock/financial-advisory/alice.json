@@ -1,0 +1,10 @@
+{
+    "alice-advisory" : {
+        "safeExpenditure" : 1100,
+        "availableCash" : 12500,
+        "forcastedExpense" : 4000,
+        "forcastedIncome" : 12000,
+        "investableAmount" : 500,
+        "earnableAmount" : 25000
+    }
+}

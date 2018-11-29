@@ -1,0 +1,11 @@
+{
+    "john-advisory" : {
+        "safeExpenditure" : "",
+        "availableCash" : "",
+        "forcastedExpense" : "",
+        "forcastedIncome" : "",
+        "investableAmount" : "",
+        "earnableAmount" : ""
+
+    }
+}
