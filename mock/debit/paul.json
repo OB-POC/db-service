@@ -16,7 +16,7 @@
                         "standingInst": 1700,
                         "balance": 3000,
                         "minBalance": 300,
-                        "interestRate": 0.2,
+                        "interestRate": 0.1,
                         "availableBalance": 1000,
                         "standingInstructions": [
                             {

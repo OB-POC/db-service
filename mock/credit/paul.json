@@ -18,7 +18,7 @@
                         "availableCredit": 2800,
                         "totalBalanceDue": 200,
                         "minBalanceDue": 100,
-                        "apr": 37.1,
+                        "apr": 20,
                         "dueDate": 1541530863807
                     }
                 ]
@@ -35,7 +35,7 @@
                         "availableCredit": 3200,
                         "totalBalanceDue": 800,
                         "minBalanceDue": 100,
-                        "apr": 19.94,
+                        "apr": 20,
                         "dueDate": 1541530863807
                     }
                 ]
@@ -52,7 +52,7 @@
                         "availableCredit": 3200,
                         "totalBalanceDue": 800,
                         "minBalanceDue": 100,
-                        "apr": 18.94,
+                        "apr": 20,
                         "dueDate": 1541530863807
                     }
                 ]
@@ -68,7 +68,7 @@
                         "minMonthlyPayment": 100,
                         "remainingFullTerm": "5Y 3M",
                         "totalBalanceDue": 100,
-                        "interestRate": 3.3,
+                        "interestRate": 20,
                         "dueDate": 1541530863808
                     }
                 ]
